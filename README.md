@@ -23,7 +23,7 @@
 ---
 
 **快速上手（3 步）**
-1. 將此 Skill 加入你的 AI agent 平台或 chat flow。
+1. 將此 Skill 加入你的 AI agent (如: [OpenClaw](https://github.com/openclaw/openclaw) & [nanobot](https://github.com/HKUDS/nanobot) & [NextClaw](https://github.com/Peiiii/nextclaw) ...) 他/她/它 知道該怎麼做。。
 2. 建立角色：分配屬性（力量/敏捷/智力/魅力 等）與一個簡短背景。
 3. 開始接龍：由第一位玩家輸入起始句，AI 或下一位玩家接下一段。
 
@@ -67,8 +67,10 @@
 - MIT（可自由使用、修改與商業化，請保留原作者聲明）。
 
 
-![alt text](resources/pic1.png)
+![安裝 skill，完成後告訴我怎麼用](resources/pic1.png)
 
-![alt text](resources/pic2.png)
+![我是新手冒險家，想到地下城練等級](resources/pic2.png)
 
-![alt text](resources/pic3.png)
+![a顯示屬性](resources/pic3.png)
+
+![系統, 有新手大禮包嗎?](resources/pic4.png)
